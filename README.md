@@ -28,6 +28,15 @@ User Question: what is the profit per category of product?
 - Supports complex analytical questions
 - Returns structured results for downstream analytics or visualization
 
+## Technologies Used
+
+. Python
+. LangChain
+. OpenAI API
+. PostgreSQL
+. SQLAlchemy
+. Pandas
+
 ## Architecture Overview
 
 User Query (Natural Language)
